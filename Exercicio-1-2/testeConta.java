@@ -1,4 +1,3 @@
-package Unima;
 
     // Classe de teste
     public class testeConta {

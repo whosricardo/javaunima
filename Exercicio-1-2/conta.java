@@ -1,4 +1,4 @@
-package Unima;
+
 public class conta {
     // Atributos da classe Conta
     private static int contador = 0; // Contador estático para atribuir identificador único
